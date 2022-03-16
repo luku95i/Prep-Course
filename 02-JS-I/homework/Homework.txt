@@ -1,0 +1,7 @@
+Variable: una variable es un espacios que el lenguaje de programacion  se para para guardar un datos y poder usarlo e identificarlo dentro del programa que se hace y llevar mejor control de los cambio
+Strings: es un tipo de dato que se definedentro de javascript para identificar un texto
+Funciones es un espacio que agurpa codigo y que se utiliza para no repetir lo mismo dentro del programa y evitar reescribir y simplificar procesos 
+argumentos: define las variables que son necesarias para que la funcion se pueda ejecutar, define los datos que  se deben pedir para que el proceso se haga  
+return: devuelve el resultado del codigo ejecutado dentro de la funcion y salta de la funcion para continuar con el codigo
+Declaraciones if  define las acciones que se deben ejecutar dependiendo si una condicios se cumple o no, es decir, si nos preguntamos sobre el estado de eso y dependiendo a ese estado debe hacerse algo
+Valores booleanos (true, false) define si una pregunta es verdadera o falsa ej: el sol se ve verde? RTa falso (false) el cielo es azul? verdadero(true)
