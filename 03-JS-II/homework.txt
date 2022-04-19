@@ -1,0 +1,4 @@
+for: el for define una accion que se ejecutará una y otra vez hasta que hasta que se llegue a un numero especifico, es decir, hasta que se llegue al numero de veces que queramos que se repita la accion ese proceso se repetira
+&&: es un operador logico que comparar dos preguntas para realizar un accion si la respuesta de las dos preguntas es si, ejecuta la accion, pero si la respuesta de una de esas preguntas es no entonce no ejecutara la accion, las dos respuestas deben ser verdadero para que se cumpla la accion
+||: es muy parecida al operador logico && pero es suficiente con que una de las dos preguntas sea si (verdadero) para que la accion se ejecute
+!: es el inverso de la los operadores, es como decir "si esto NO es igual, ejecute la accion" o "si estas dos condiciones no se cumplen esjecute la accion" es como un cambio de la operacion logica
