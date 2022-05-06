@@ -1,0 +1,1 @@
+Array: un array es una variable que a su vez guarda una lista de variables independientes cada una de ellas, con las que se pueden realizar multiples acciones y modificaciones
